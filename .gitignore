@@ -1,0 +1,30 @@
+# Android Studio generated files
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# Build output
+build/
+app/build/
+app/release/
+
+# External dependencies
+*.jar
+*.aar
+
+# User-specific files
+*.swp
+*.swo
+*.swn
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Android APK files
+*.apk
+*.ap_
+
+# Log files
+*.log
